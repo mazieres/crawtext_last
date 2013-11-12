@@ -41,4 +41,4 @@ Released under [MIT License](http://opensource.org/licenses/MIT).
 
 ## About
 
-Developed by [http://mazier.es](@mazieres), forked from [@jphcoi](http://jph.cointet.free.fr/wp/), both efforts being part of [Cortext project](http://cortext.fr/).
+Developed by [@mazieres](http://mazier.es), forked from [@jphcoi](http://jph.cointet.free.fr/wp/), both efforts being part of [Cortext project](http://cortext.fr/).
