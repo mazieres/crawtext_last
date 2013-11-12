@@ -33,7 +33,7 @@ Arguments are:
 
 ## Contribute
 
-Please, use the Issue tracker.
+Please, use the [Issue tracker](https://github.com/mazieres/crawtext/issues).
 
 ## License
 
